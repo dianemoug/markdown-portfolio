@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* :heart: check on moose
+* :sparkles: feed moose
+  * :palm_tree: pet moose
